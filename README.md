@@ -11,5 +11,5 @@ Features of the platform
 
 ## Team members
 
-- Ahmed Rebei [@ahmedrebei]
+- Ahmed Rebei @ahmedrebei
 - person @person
