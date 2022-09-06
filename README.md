@@ -9,7 +9,10 @@ Here goes the objectives of the project
 ## features
 Features of the platform
 
-## Team members
+## Tools and Techniques
+- technique 1
+- tool 2
 
+## Team members
 - Ahmed Rebei @ahmedrebei
 - person @person
