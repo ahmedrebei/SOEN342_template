@@ -1,4 +1,4 @@
-# SOEN342_test
+# SOEN342_template
 
 ## Project Description
 Creating an E-learning platform
