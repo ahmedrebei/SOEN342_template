@@ -3,7 +3,7 @@
 ## Project Description
 Creating an E-learning platform
 
-##Objective
+## Objective
 Here goes the objectives of the project
 
 ## features
