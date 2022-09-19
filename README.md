@@ -1,10 +1,10 @@
 # SOEN342_template
 
-## Project Description
-Creating an E-learning platform
-
 ## Objective
 Here goes the objectives of the project
+
+## Project Description
+Creating an E-learning platform
 
 ## features
 Features of the platform
